@@ -1,8 +1,10 @@
 pages.cloudflare.com
 workers.cloudflare.com
 cloudflare.182682.xyz
-www.speedtest.net
+singapore.com
+visa.com.sg
 104.18.32.111
 103.160.204.7
 104.21.32.1
-104.21.96.1
+8.222.151.126
+150.230.216.211
